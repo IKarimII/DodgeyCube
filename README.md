@@ -69,4 +69,5 @@ Some core values used by the game:
 
 ## Credits
 
-Made in MIPS assembly for MARS as a simple dodge-and-collect arcade game.
+Made in MIPS assembly for MARS as a simple dodge-and-collect arcade game with my colleague Giovanni As a Final Project for the Computer Organization Course at LAU .
+
